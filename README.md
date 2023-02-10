@@ -1,4 +1,5 @@
-# GAMIT Server 10.71 Amazon Web Service
+# GAMIT Server 10.71
+![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_REV_SQ.8c88ac215fe4e441dc42865dd6962ed4f444a90d.png)
 ## Repo ini berisi auth file dan tutorial sederhana untuk menggunakan server GAMIT for BMKG
 
 ### Langkah untuk masuk ke dalam server
@@ -8,7 +9,7 @@
 - Gunakan perintah berikut untuk masuk ke server tanpa tanda <> 
 - `ssh -i "gamitserveruntukbmkg.pem" <IP Server akses ke author>`
 - Ketikkan `yes` untuk verifikasi akses jika diperlukan
-- Untuk IP server silakan hubungi author
+- Untuk IP server lengkap silakan hubungi author
 - Selamat anda terhubung ke server GAMIT BMKG :tada:
 
 Kontak author untuk mendapatkan akses ke server melalui :
