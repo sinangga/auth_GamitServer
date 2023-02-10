@@ -14,6 +14,6 @@
 
 Kontak author untuk mendapatkan akses ke server melalui :
 >[:incoming_envelope:   Surel](mailto:mailto:muhammad.suyudi@bmkg.go.id?cc=yyudie@gmail.com&bcc=&subject=Permohonan%20akses%20server%20GAMIT%20BMKG&body=)\
->[:telephone_receiver:  Whatsapp](https://wa.me/6287765162176&text=Permohonan%20akses%20server%20GAMIT%20BMKG)
+>[:telephone_receiver:  Whatsapp](https://wa.me/6287765162176?text=Permohonan%20akses%20server%20GAMIT%20BMKG)
 
 #### Gunakan Server dengan Bijak
