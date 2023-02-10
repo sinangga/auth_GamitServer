@@ -1,5 +1,5 @@
 # GAMIT Server 10.71 Amazon Web Service
-## Repo ini berisi auth file dan turotial sederhana untuk menggunakan server GAMIT for BMKG
+## Repo ini berisi auth file dan tutorial sederhana untuk menggunakan server GAMIT for BMKG
 
 ### Langkah untuk masuk ke dalam server
 - Silakan unduh file `.pem` yang tersedia pada repo ini
