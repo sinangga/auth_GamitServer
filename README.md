@@ -1,6 +1,6 @@
 # GAMIT Server 10.71
 ![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_REV_SQ.8c88ac215fe4e441dc42865dd6962ed4f444a90d.png)
-## Repo ini berisi auth file dan tutorial sederhana untuk menggunakan server GAMIT for BMKG
+## Repo ini berisi auth file dan tutorial sederhana untuk menggunakan server GAMIT BMKG
 
 ### Langkah untuk masuk ke dalam server
 - Silakan unduh file `gamitserveruntukbmkg.pem` yang tersedia pada repo ini
