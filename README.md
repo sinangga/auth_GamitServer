@@ -2,9 +2,9 @@
 ## Repo ini berisi auth file dan tutorial sederhana untuk menggunakan server GAMIT for BMKG
 
 ### Langkah untuk masuk ke dalam server
-- Silakan unduh file `.pem` yang tersedia pada repo ini
+- Silakan unduh file `gamitserveruntukbmkg.pem` yang tersedia pada repo ini
 - Gunakan bash terminal atau SSH Client sesuai kebutuhan anda
-- Ubah permission pada file `.pem` agar dapat digunakan (menggunakan chmod 400 atau chmod 777)
+- Ubah permission pada file `gamitserveruntukbmkg.pem` agar dapat digunakan (menggunakan chmod 400 atau chmod 777)
 - Gunakan perintah berikut untuk masuk ke server tanpa tanda <> 
 - `ssh -i "gamitserveruntukbmkg.pem" <IP Server akses ke author>`
 - Ketikkan `yes` untuk verifikasi akses jika diperlukan
